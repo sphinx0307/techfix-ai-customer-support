@@ -1,0 +1,27 @@
+TechFix Troubleshooting Guide
+
+Battery Draining Quickly
+- Reduce screen brightness.
+- Close background applications.
+- Enable battery saver mode.
+- Update system software.
+
+Laptop Not Turning On
+- Check the power adapter.
+- Hold the power button for 10 seconds.
+- Charge the battery for at least 30 minutes.
+
+Device Overheating
+- Keep air vents clean.
+- Avoid direct sunlight.
+- Close unnecessary applications.
+
+Slow Performance
+- Restart the device.
+- Free storage space.
+- Update operating system.
+
+Wi-Fi Connection Problems
+- Restart the router.
+- Forget and reconnect to the Wi-Fi network.
+- Update network drivers.

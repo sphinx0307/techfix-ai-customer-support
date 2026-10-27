@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+
+# Runtime data: may contain conversations and user feedback
+logs/
+data/
+error_logs.txt
+
+# Generated vector indexes and caches
+faiss_index/
+vectorstore/
+.cache/
+huggingface/
+gensim-data/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
